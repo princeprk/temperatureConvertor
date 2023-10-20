@@ -1,0 +1,60 @@
+div{
+    position: relative;
+    top: 50%;
+    left: 35%;
+}
+
+
+
+#convert {
+    background-color: #000a74;
+    
+  }
+#convert:hover {
+    background-color: #00e013;
+    transition: 0.4s;
+    
+    
+  }
+  h1 {
+    font-family: sans-serif;
+    color: #002e51;
+  }
+  input {
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 2em;
+    color: #b15600;
+    font-family: "Luminari";
+  }
+  ::-webkit-input-placeholder {
+     color: #494141;
+  }
+  :-moz-placeholder { 
+     color: #534f4f;  
+  }
+  ::-moz-placeholder {  
+     color: #ccc;  
+  }
+  :-ms-input-placeholder {  
+     color: #ccc;  
+  }
+  button {
+    padding: 10px;
+    font-size: 1.2em;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    margin-top: 25px ;
+  }
+
+  #clear{
+    background-color: #bd3900;
+    
+  }
+
+  #clear:hover{
+    background-color: #00e013;
+    transition: 0.4s;
+  }
